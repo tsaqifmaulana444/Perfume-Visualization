@@ -4,3 +4,4 @@ Visualisasi Dataset Brand Parfum Di Indonesia
 Menerapkan Matplotlib Bar, Plot, dan Scatterplot
 
 ## Dataset Credits
+- https://www.kaggle.com/datasets/gantisumpah/indonesian-local-perfume-brand
